@@ -1,0 +1,3 @@
+﻿{
+	"Parameters": "{\"projectsList\":\"/Users/cristianbadita/Documents/Wakanda/Members/Members/\",\"pagesList\":\"/Users/cristianbadita/Documents/Wakanda/Members/Members/WebFolder/app.waPage/\",\"phonegap-version\":\"3.3.0\",\"prodServer\":\"5.12.179.191:8081\",\"devServer\":\"127.0.0.1:8081\",\"appId\":\"com.ZoftZircus.ZoftCard\",\"appVersion\":\"1.0\",\"appName\":\"ZoftCard\",\"platformList\":{\"ios\":false,\"android\":true,\"blackberry\":false,\"winphone\":false,\"webos\":false,\"symbian\":false},\"orientation\":\"portrait\",\"landscape\":false,\"default\":false,\"portrait\":true,\"fullscreen\":true,\"splash\":\"file:///Users/cristianbadita/Downloads/a3dgVP8_700b.jpg\",\"author-name\":\"Zoft Zircus\",\"packageLocation\":\"/Users/cristianbadita/Desktop/\"}"
+}

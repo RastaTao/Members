@@ -1,0 +1,14 @@
+{
+    "name": "simpleGreen",
+    "author": "Wakanda",
+    "copyright": "GNU GPL v3, AGPL v3, Commercial",
+    "studio": {
+        "label": "Simple Green",
+        "mobile": "false"
+    },
+    "version": "1.0.0",
+    "loadDependencies": [
+        {"id": "simpleGreen/simpleGreen.css", "path": "THEMES_CUSTOM"}
+    ],
+    "type":"custom"
+}

@@ -1,0 +1,1 @@
+﻿directory.setLoginListener('userLogin',"Admin");directory.setLoginListener('userLogin',"Organisation");directory.setLoginListener('userLogin',"User");addHttpRequestHandler("^/cors/", "utils/cors.js", "handleCORSMethod");
